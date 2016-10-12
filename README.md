@@ -1,6 +1,6 @@
 # AkamaiNativeJSLib
 
-A Native JS library to access Akamai's CDN system using CORS requests.
+A Native JS library to access Akamai's Netstorage CDN system using CORS requests.
 
 #Required Libraries
 
